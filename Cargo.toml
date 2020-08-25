@@ -34,6 +34,6 @@ git = "https://github.com/pingcap/kvproto.git"
 default-features = false
 
 [dependencies.raft]
-git = "https://github.com/pingcap/raft-rs"
-branch = "master"
+git = "https://github.com/innerr/raft-rs"
+branch = "ssd"
 default-features = false
