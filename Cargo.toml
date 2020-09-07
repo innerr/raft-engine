@@ -28,7 +28,7 @@ version = "0.8"
 default-features = false
 features = ["nightly"]
 
-[dependencies.raft]
+[dev-dependencies.raft]
 git = "https://github.com/innerr/raft-rs"
 branch = "ssd"
 default-features = false
